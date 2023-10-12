@@ -1,0 +1,15 @@
+---
+title: "R project sprint"
+author: "gwynn gebeyehu"
+format: html
+editor: visual
+---
+
+# R core team
+
+
+
+
+## Translations
+[Translations dashboard](https://contributor.r-project.org/translations-dashboard/)
+
