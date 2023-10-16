@@ -1,15 +1,15 @@
 ---
 title: "R project sprint"
 author: "gwynn gebeyehu"
-format: html
-editor: visual
+footer:  "[stat1010-f22.github.io/website](https://stats1010-f22.github.io/website/)"
+format: 
+  revealjs: 
+    transition: fade
+    slide-number: true
 ---
 
-# R core team
-
-
-
+#  {background-image="images/RCore_age.png" background-size="contain"}
 
 ## Translations
-[Translations dashboard](https://contributor.r-project.org/translations-dashboard/)
 
+[Translations dashboard](https://contributor.r-project.org/translations-dashboard/)
