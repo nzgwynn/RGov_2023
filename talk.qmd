@@ -45,12 +45,13 @@ format:
 
 # {background-image="images/surprise_hex.png" background-size="contain"}
 
+# {background-image="images/Ahmadou_pathc.jpg" background-size="contain"}
+
 # {background-image="images/alpha_quartz.png" background-size="contain"}
 
 ## Translations
 
 [Translations dashboard](https://contributor.r-project.org/translations-dashboard/)
-
 
 # {background-image="images/participants.jpg" background-size="contain"}
 
