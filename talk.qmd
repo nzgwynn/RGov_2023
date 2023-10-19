@@ -1,15 +1,55 @@
 ---
 title: "R project sprint"
 author: "gwynn gebeyehu"
-footer:  "[stat1010-f22.github.io/website](https://stats1010-f22.github.io/website/)"
+footer:  "[slides and repo](https://github.com/nzgwynn/RGov_2023)"
 format: 
   revealjs: 
     transition: fade
     slide-number: true
 ---
 
+#  {background-image="images/Ross_text.jpeg" background-size="contain"}
+
+#  {background-image="images/Core_Email.png" background-size="contain"}
+
 #  {background-image="images/RCore_age.png" background-size="contain"}
+
+#  {background-image="images/codebase.png" background-size="contain"}
+
+## R core team
+
+::: incremental
+-   Robert Gentleman and Ross Ihaka
+-   Martin Maechler - convinced them to make it open source 
+-   Simon Urbanek - apple
+-   Thomas Lumley - survey, statistics
+-   Martin Plummer - statistics
+-   Deepayan Sarkar - code completion
+-   Thomas Kalibera - server
+-   More people...
+:::
+
+#  {background-image="images/codebase-mod.png" background-size="contain"}
+
+# {background-image="images/vectorize_library.png" background-size="contain"}
+
+#  {background-image="images/bugzilla_screenshot.png" background-size="contain"}
+
+# {background-image="images/request_hex.png" background-size="contain"}
+
+# {background-image="images/new_code.png" background-size="contain"}
+
+# {background-image="images/new_doc.png" background-size="contain"}
+
+# {background-image="images/new_test.png" background-size="contain"}
+
+# {background-image="images/surprise_hex.png" background-size="contain"}
+
+# {background-image="images/alpha_quartz.png" background-size="contain"}
 
 ## Translations
 
 [Translations dashboard](https://contributor.r-project.org/translations-dashboard/)
+
+
+# {background-image="images/participants.png" background-size="contain"}
