@@ -49,6 +49,8 @@ format:
 
 # {background-image="images/alpha_quartz.png" background-size="contain"}
 
+# {background-image="images/quartz_opacity.png" background-size="contain"}
+
 ## Translations
 
 [Translations dashboard](https://contributor.r-project.org/translations-dashboard/)
