@@ -45,7 +45,7 @@ format:
 
 # {background-image="images/surprise_hex.png" background-size="contain"}
 
-# {background-image="images/Ahmadou_pathc.jpg" background-size="contain"}
+# {background-image="images/Ahmadou_patch.jpg" background-size="contain"}
 
 # {background-image="images/alpha_quartz.png" background-size="contain"}
 
