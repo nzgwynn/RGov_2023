@@ -52,4 +52,6 @@ format:
 [Translations dashboard](https://contributor.r-project.org/translations-dashboard/)
 
 
-# {background-image="images/participants.png" background-size="contain"}
+# {background-image="images/participants.jpg" background-size="contain"}
+
+# {background-image="images/meetup.png" background-size="contain"}
